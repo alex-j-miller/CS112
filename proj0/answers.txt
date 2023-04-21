@@ -1,0 +1,32 @@
+Alex Miller
+ajm94
+1/16/22
+Project 0
+--------------------------
+int BIG_NUMBER = 10000000;
+string name = "Alex";
+char last = 'M';
+double pi = 3.1415;
+bool False = false;
+long zero = 0;
+--------------------------
+0xffffcb98
+0xffffcb90
+M8$
+0xffffcb80
+0xffffcb7f
+0xffffcb70
+--------------------------
+00100101
+45
+25
+--------------------------
+80
+--------------------------
+	float* seventh = &array[6];
+	*seventh = 17.771;
+	cout << array[6] << endl;
+	cout << seventh << endl;
+	
+17.771
+0xffffcb98	
